@@ -1,1 +1,2 @@
-xgboost==1.1.0
+xgboost==1.6.0
+scikit-learn==1.2.0
